@@ -18,7 +18,7 @@ GIS · geospatial AI · full-stack web · the 2am Leaflet tile debugging nobody 
 
 ---
 
-## 🛰️ Shipped
+## Shipped
 
 | Project | The problem | What shipped |
 |---|---|---|
@@ -28,7 +28,7 @@ GIS · geospatial AI · full-stack web · the 2am Leaflet tile debugging nobody 
 
 ---
 
-## 🌍 Open Source
+## Open Source
 
 <!-- OSS:START -->
 
@@ -42,7 +42,7 @@ GIS · geospatial AI · full-stack web · the 2am Leaflet tile debugging nobody 
 
 ---
 
-## 🧰 Stack
+## Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-1F2A2E?style=for-the-badge&logo=next.js&logoColor=7EFFE4)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F2A2E?style=for-the-badge&logo=typescript&logoColor=7EFFE4)
@@ -55,7 +55,7 @@ GIS · geospatial AI · full-stack web · the 2am Leaflet tile debugging nobody 
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
