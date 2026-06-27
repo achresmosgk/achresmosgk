@@ -8,7 +8,7 @@
 
 GIS · geospatial AI · full-stack web · the 2am Leaflet tile debugging nobody talks about.
 
-![Student](https://img.shields.io/badge/STUDENT_DEVELOPER-VADODARA_GJ-1F2A2E?style=for-the-badge&labelColor=1F2A2E&color=365564)
+![Student](https://img.shields.io/badge/ASPIRING_AI_ENGINEER-1F2A2E?style=for-the-badge&labelColor=1F2A2E&color=365564)
 ![Open](https://img.shields.io/badge/OPEN_TO-COLLABS_%26_INTERNSHIPS-7EFFE4?style=for-the-badge&labelColor=1F2A2E&color=7EFFE4)
 
 [![Antrix-I Demo](https://img.shields.io/badge/ANTRIX--I_DEMO-7EFFE4?style=for-the-badge&logoColor=1F2A2E)](https://workfolk.vercel.app/)
